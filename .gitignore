@@ -1,0 +1,10 @@
+.mlops_environ
+%TEMP%
+logs
+working_data
+test.py
+__pycache__
+.vscode
+data
+TFX
+mlruns
